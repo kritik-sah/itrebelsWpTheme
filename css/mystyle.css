@@ -1,0 +1,21 @@
+.text-bordered{
+    color: rgba(255, 255, 255, 0);
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #222429;    
+}
+.circular-btn {
+    height: 60px;
+    width: 60px;
+    font-size: 20px;
+}
+.skill-icon{
+    height: 30px;
+    width: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.skill-icon img{
+    height: 20px;
+    filter:drop-shadow(#ffffff 0px 0px 10px);
+}
